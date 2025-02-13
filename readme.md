@@ -42,6 +42,7 @@ Teste técnico de marketplace com Vue.js 3 no frontend e Laravel 10 no backend.
     DB_DATABASE=marketplace
     DB_USERNAME=seu_usuario
     DB_PASSWORD=sua_senha
+    FRONTEND_URL= http://seufrontend/
 
 5. Execute as migrações (php artisan migrate)
 
