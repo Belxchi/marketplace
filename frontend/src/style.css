@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.multiselect__tag, .multiselect__option--selected, .multiselect__option--highlight, .multiselect__option--highlight:after {
+    background: #2b7fff !important;
+}
